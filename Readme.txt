@@ -34,6 +34,6 @@ Rules:
 
 /*
 Updating work field:
-1.Css part completed: Tutorial 1 completed "images were not added"
-2.You have to start from part 5 : Part4 ongoing completed upto 1:24:06
+1. Phase 3 completed
+2. Please start Phase 4
 */
