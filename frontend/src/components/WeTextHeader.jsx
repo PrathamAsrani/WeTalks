@@ -7,7 +7,7 @@ import NotificationsOutlined from '@mui/icons-material/NotificationsOutlined';
 import PeopleAltOutlined from '@mui/icons-material/PeopleAltOutlined';
 import Search from '@mui/icons-material/Search';
 import { Avatar, Button } from '@mui/material';
-
+import '../components/CSS/WeTextHeader.css'
 const WeTextHeader = () => {
   return (
     <div className='qHeader'>
